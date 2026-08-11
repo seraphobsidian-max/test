@@ -1,5 +1,5 @@
 {
-  "name": "synzu-bot",
+  "name": "messenger-railway-bot",
   "version": "1.0.0",
   "description": "Facebook Messenger Bot with Live Dashboard Hosted on Railway",
   "main": "index.js",
